@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="资讯">
+
+        <menu>
+            <item android:title="V2EX"
+                android:id="@+id/v2ex"
+                android:icon="@mipmap/atm"
+                android:checked="true"/>
+            <item android:title="知乎日报"
+                android:id="@+id/zhihu"
+                android:icon="@mipmap/zhihu"/>
+        </menu>
+
+    </item>
+
+    <item android:title="选项">
+        <menu>
+            <item android:title="设置"
+                android:id="@+id/settings"
+                android:icon="@mipmap/set"/>
+            <item android:title="收藏"
+                android:id="@+id/collections"
+                android:icon="@mipmap/favorite"/>
+        </menu>
+    </item>
+
+</menu>

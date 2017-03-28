@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project_Explore_170321</string>
+
+    <!--category-->
+    <string name="v2ex">V2EX</string>
+    <string name="zhihu">知乎日报</string>
+    <string name="settings">设置</string>
+    <string name="collections">收藏</string>
+
+    <string name="loading">加载中</string>
+
+    <string name="title">标题</string>
+
+</resources>
